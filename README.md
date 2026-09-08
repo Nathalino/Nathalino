@@ -1,8 +1,6 @@
 # Olá, sou Nathalino Pachêco 👋
 
-Doutorando em Ciência da Computação e pesquisador nas áreas de **Engenharia de Software, Engenharia de Requisitos, IHC e IA.**
-
-Atualmente, desenvolvo atividades de pesquisa relacionadas à Engenharia de Software, Engenharia de Requisitos, Interação Humano-Computador e Inteligência Artificial.
+Doutorando em Ciência da Computação e pesquisador nas áreas de **Engenharia de Software (ES), Engenharia de Requisitos (ER), Interação Humano-Computador (IHC) e Inteligência Artificial (IA).**
 
 ## Perfis acadêmicos
 
